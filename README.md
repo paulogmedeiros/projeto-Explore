@@ -2,7 +2,8 @@
 <img src=".github/Thumbnail.png" alt="Capa do projeto" width = "100%">
 </p>
 
-## 🖥️ Projeto 
+## 🖥️ Projeto
+
 Esse é o projeto web responsivo de uma capsula do tempo para exibir memórias
 
 ## 🚀 Tecnologias
